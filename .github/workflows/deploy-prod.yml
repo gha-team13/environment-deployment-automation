@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace <username> with GitHub ghateam13 ###
+  ### GitHub ghateam13 ###
   ###############################################
   DOCKER_IMAGE_NAME: ghateam13-azure-ttt
   AZURE_WEBAPP_NAME: ghateam13-ttt-app

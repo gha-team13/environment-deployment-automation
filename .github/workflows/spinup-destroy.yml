@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"canadacentral"'
   ###############################################
-  ### Replace <username> with GitHub ghateam13 ###
+  ### GitHub ghateam13 ###
   ###############################################
   AZURE_WEBAPP_NAME: ghateam13-ttt-app
 
