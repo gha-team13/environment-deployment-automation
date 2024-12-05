@@ -1,3 +1,12 @@
+👋 Hi, I’m @adcosta
+👀 I’m interested in risk spotting competitions
+🌱 I’m currently competing in TechJam 2024
+💞️ I’m looking to collaborate on GRC
+📫 How to reach me anthony.dcosta@td.com
+😄 Pronouns: he/him/his
+⚡ Fun fact: GRC improves engagement
+
+
 spinup-destroy.yml
 
 When a developer creates a pull request to merge their changes, the continuous delivery pipeline  automatically sets up an isolated Azure environment. This environment hosts a fully functional version of the application, allowing team members, stakeholders, or QA engineers to test the changes without affecting the production environment. Once the testing is complete or the pull request is closed, the workflow tears down the environment, saving costs.
